@@ -6,6 +6,7 @@ export default function App() {
     <div>
       <h1>Hello StackBlitz!</h1>
       <h1>bbshshhs</h1>
+      <p>nirhhh</p>
       <p>Start editing to see some magic happen :)</p>
     </div>
   );
